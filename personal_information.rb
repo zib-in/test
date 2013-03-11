@@ -1,1 +1,1 @@
-puts "Mi apellido ess YILMAZ"
+puts "Mi apellido es YILMAZ"
